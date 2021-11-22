@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<restaurant xmlns:anotherprefix="http://fsk.unsa.ba/webarhitekture">
+
+    <someprefix:table xmlns:someprefix="http://fsk.unsa.ba/webarhitekture">
+        <number>1</number>
+        <seats>4</seats>
+        <reserved>no</reserved>
+    </someprefix:table>
+
+    <anotherprefix:table>
+        <number>3</number>
+        <seats>8</seats>
+        <reserved>yes</reserved>
+    </anotherprefix:table>
+    
+</restaurant>

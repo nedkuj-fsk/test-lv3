@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<syllabus>
+    <class>
+        <name>Web arhitekture</name>
+        <teacher>dr. Muhamed Begović</teacher>
+        <schedule>
+            <day>Monday</day>
+            <time>10:00</time>
+        </schedule>
+    </class>
+    <class>
+        <name>Baze podataka</name>
+        <teacher>doc. dr. Adnan Dželilhodžić</teacher>
+        <schedule>
+            <day>Monday</day>
+            <time>17:00</time>
+        </schedule>
+    </class>
+    <class>
+        <name>Softversko inžinjerstvo II</name>
+        <teacher>doc. dr. Adnan Dželilhodžić</teacher>
+        <schedule>
+            <day>Wednesday</day>
+            <time>17:00</time>
+        </schedule>
+    </class>
+</syllabus>

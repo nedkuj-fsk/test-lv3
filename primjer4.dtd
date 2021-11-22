@@ -1,0 +1,8 @@
+<!ELEMENT syllabus (class+)>
+<!ELEMENT class (name,teacher,demonstrator*,schedule)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT teacher (#PCDATA)>
+<!ELEMENT demonstrator (#PCDATA)>
+<!ELEMENT schedule (day,time)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT time (#PCDATA)>

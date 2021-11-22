@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class department="KiT">
+    <name>Web arhitekture</name>
+    <schedule>
+        <day>Monday</day>
+        <time>10:00</time>
+    </schedule>>
+    <teacher>dr. Muhamed Begović</teacher>
+    <demonstrator>Nedim Kujraković</demonstrator>
+</class>
